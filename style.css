@@ -4,13 +4,13 @@ html
 }
 body
 {
-	font family: sans-serif;
+	font family: 'Roboto' sans-serif;
 	font-size:lem ;
     line-height: 1.5em;
 	}
 img
 { 
-width : 75% ;
+width : 80% ;
 
 }
 
@@ -22,7 +22,7 @@ h1
 	color:#ffd88e;
 }
 h2
-{ color:red;
+{ color:white;
    text-transform:uppercase;
 	}
 	h3
