@@ -20,13 +20,13 @@ h1 {
     color: #ffd88e;
 }
 h2 {
-    color: white;
+    color:rgb(243, 239, 20);
     text-transform: uppercase;
 }
 h3 {
     text-align: center;
     text-transform: uppercase;
-    color: red;
+    color:rgb(243, 239, 20);
 }
 #main {
     background-color: black;
@@ -65,20 +65,19 @@ a:active {
     color: #ff5c5c;
 }
 span {
-    color: blue;
+    color:rgb(12, 240, 12);
     font-size: 1.15em;
     text-transform: uppercase;
     font-weight: bold;
 }
 #name {
-    color: red;
+    color:rgb(243, 239, 20);
     text-transform: uppercase;
 }
 #hyperlink {
     display: inline;
     font-weight: 100;
-    color: blue;
-    background-color: white;
+    color: #4fff09;
     padding: 0px;
     text-decoration: underline;
     text-transform: none;
